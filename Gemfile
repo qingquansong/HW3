@@ -36,6 +36,8 @@ gem 'uglifier', '>= 2.7.1'
 gem 'jquery-rails'
 gem 'haml'
 
+gem 'rails_12factor', group: :production
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
