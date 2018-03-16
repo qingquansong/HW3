@@ -198,6 +198,7 @@ DEPENDENCIES
   jquery-rails
   launchy
   pg
+  rails_12factor
   rails (= 4.2.6)
   rspec-rails (= 3.3.2)
   sass-rails (~> 5.0.3)
