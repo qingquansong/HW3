@@ -106,7 +106,7 @@ GEM
     nokogiri (1.6.8)
       mini_portile2 (~> 2.1.0)
       pkg-config (~> 1.1.7)
-    pg (0.18.4)
+    pg (0.21.0)
     pkg-config (1.1.7)
     rack (1.6.4)
     rack-test (0.6.3)
@@ -202,7 +202,7 @@ DEPENDENCIES
   haml
   jquery-rails
   launchy
-  pg
+  pg (~> 0.20)
   rails (= 4.2.6)
   rails_12factor
   rspec-rails (= 3.3.2)
