@@ -26,7 +26,7 @@ group :production do
   # gem 'pg'
   # gem 'pg' # for Heroku deployment
   gem 'pg', '0.21.0'
-  #gem 'rails_12factor'
+  gem 'rails_12factor'
 end
 
 # Gems used only for assets and not required
