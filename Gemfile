@@ -14,6 +14,8 @@ group :development, :test do
   gem 'launchy'
   gem 'rspec-rails', '3.3.2'
   gem 'ZenTest', '4.11.0'
+    # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
+  gem 'spring'
 end
 
 group :test do
